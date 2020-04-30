@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "recordrtc": "5.5.8",
     "video.js": "7.6.6",
     "videojs-record": "3.9.0",
